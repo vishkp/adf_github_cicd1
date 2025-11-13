@@ -1,0 +1,9 @@
+{
+	"name": "adf-vish-cicd1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03425023-6a46-4edf-bc3f-923396e3036e",
+		"tenantId": "d9972516-13e7-4c6e-b293-01898ef818bb"
+	}
+}
